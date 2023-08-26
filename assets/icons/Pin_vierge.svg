@@ -1,0 +1,17 @@
+<svg width="48" height="64" viewBox="0 0 48 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.9469 46.653C41.2962 43.3734 48 34.4696 48 24C48 10.7452 37.2548 0 24 0C10.7452 0 0 10.7452 0 24C0 34.4696 6.70382 43.3734 16.0531 46.653L23.2929 53.8929C23.6834 54.2834 24.3166 54.2834 24.7071 53.8929L31.9469 46.653Z" fill="#E8A300"/>
+<g filter="url(#filter0_f_946_242)">
+<ellipse cx="24" cy="58" rx="19" ry="3" fill="url(#paint0_radial_946_242)"/>
+</g>
+<defs>
+<filter id="filter0_f_946_242" x="2" y="52" width="44" height="12" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="1.5" result="effect1_foregroundBlur_946_242"/>
+</filter>
+<radialGradient id="paint0_radial_946_242" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(24 58) rotate(90) scale(3 19)">
+<stop stop-color="#1E1E1E" stop-opacity="0.22"/>
+<stop offset="1" stop-color="#1E1E1E" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
